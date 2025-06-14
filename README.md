@@ -7,7 +7,7 @@ Welcome to the **Weather Forecast Web App**! This project displays a **7-day wea
 ### 🚀 Live Demo
 
 🌐 **Access it here**:
-🔗 `https://luizalencar17.github.io/weather-forecast-app`
+🔗 [Website](https://luizalencar17.github.io/weather-forecast-app)
 
 ---
 
